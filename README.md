@@ -1,6 +1,6 @@
 # Sales Data Mart (Adventure Works)
 - [Introduction](#Introduction)
-- [Technologies](#Data_Model)
+- [Technologies](#Technologies)
 - [Designing DWH](#Designing_DWH)
 - [SSIS](#SSIS)
 - [Dashboard](#Dashboard)
